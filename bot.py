@@ -50,14 +50,18 @@ print("")
 
 print(Fore.RED+"\n Rubika --> @Belectron_bot")
 print("")
-
-text = '^XSON^'
-txt = pyfiglet.figlet_format(text,font='slant')
-os.system('mode con: cols=75 lines=30')
+
+
+text = '^XSON^'
+
+txt = pyfiglet.figlet_format(text,font='slant')
+
+os.system('mode con: cols=75 lines=30')
+
 print(txt)
 
-bot = Bot("pydroid 3", auth="njltgeldfoobbpjksveyctjtgxeikfka")
-target = "g0B8pkJ00e7bd16b20142872ac7ba435"
+bot = Bot("pydroid 3", auth="xffmaicbkrrlofhuysquscwmenjpriai")
+target = "g0BbWVQ04efc221bc358b350870b9808"
 
 # Created By Mamad BeLectron
 
