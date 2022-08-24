@@ -1,6 +1,6 @@
-auth = "xffmaicbkrrlofhuysquscwmenjpriai"
+auth = "htvtmtmsvwazhdxzcvdbzmhomtceeppd"
 guidgap = "g0BbWVQ04efc221bc358b350870b9808"
-admins = ["u0DwHdd07c161b00d5631317aff670dd","u0Ds5ni0168441041bad4f1bd9e78cbe"]
+admins = ["u0DP5Nj0c161d78dcac0e09ee3d9b79a","u0Ds5ni0168441041bad4f1bd9e78cbe"]
 
 
 
