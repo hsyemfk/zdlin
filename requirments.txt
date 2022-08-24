@@ -1,3 +1,4 @@
 rubika
-mutagen
 gtts
+mutagen
+pyfiglet
