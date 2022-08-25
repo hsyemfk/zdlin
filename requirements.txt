@@ -1,3 +1,6 @@
-rubpy
-rubika_lib
-colorama
+mutagen
+gtts
+pillow
+PIL
+re
+time
