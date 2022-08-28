@@ -1,14 +1,14 @@
 from requests import get
 from re import findall
-from rubika.client import Bot
+from libraryArsein.Arsein import Robot_Rubika
 import time
 
-bot = Bot("AppName", auth="htvtmtmsvwazhdxzcvdbzmhomtceeppd")
+bot = bot = Robot_Rubika("htvtmtmsvwazhdxzcvdbzmhomtceeppd")
 
 
 while True:
 	
-	time.sleep(12)
+	time.sleep(5)
 	x = get("https://api.codebazan.ir/jok/").text
 	cp = f"کانال جوک ما \n @sterik_jok"
 	jok = f"{x}  \n {cp} \n "
