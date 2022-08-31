@@ -1,6 +1,3 @@
-libraryArsein
-colorama
-PIL
-pillow
-gtts
-mutagen
+requests
+rubika
+time
