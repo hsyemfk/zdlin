@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "status_det": "OK",
+    "data": {
+        "status": "OK",
+        "auth": "uoxnonxmsrahodfwtijnguivkcrqvinh",
+        "user": {
+            "user_guid": "u0lHYA0a1a21073d9b08d68d00fa8013",
+            "first_name": "ARAD",
+            "last_name": "",
+            "phone": "989159656966",
+            "username": "Arad_BoysMae",
+            "avatar_thumbnail": {
+                "file_id": "5819368931",
+                "mime": "jpg",
+                "dc_id": "819",
+                "access_hash_rec": "7701571939102739495962323208312022013010"
+            },
+            "last_online": 1648207762,
+            "bio": "ع‌ـجیبه هم‌ـع چیـ‌ب‌ـع لطف> ـकर्म",
+            "is_deleted": false,
+            "is_verified": false,
+            "online_time": {
+                "type": "Exact",
+                "exact_time": 1648207762
+            }
+        },
+        "timestamp": "1648207818"
+    }
+}
